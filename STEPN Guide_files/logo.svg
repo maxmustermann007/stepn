@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Слой_1"
+   data-name="Слой 1"
+   viewBox="0 0 1576 209"
+   version="1.1"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1120"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.24809644"
+     inkscape:cx="116.89003"
+     inkscape:cy="58.445014"
+     inkscape:window-width="1850"
+     inkscape:window-height="1016"
+     inkscape:window-x="70"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Слой_1" />
+  <defs
+     id="defs1093">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1261">
+      <stop
+         style="stop-color:#f06a2a;stop-opacity:1"
+         offset="0"
+         id="stop1257" />
+      <stop
+         style="stop-color:#f5e12f;stop-opacity:1"
+         offset="1"
+         id="stop1259" />
+    </linearGradient>
+    <style
+       id="style1091">.cls-1{fill:#fdfffd;}</style>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1261"
+       id="linearGradient1807"
+       gradientUnits="userSpaceOnUse"
+       x1="124.45"
+       y1="160.37347"
+       x2="124.45"
+       y2="46.98" />
+  </defs>
+  <title
+     id="title1095">Монтажная область 12DM_icons</title>
+  <path
+     class="cls-1"
+     d="M264.41,48.61h74.65c65.26,0,79.49,28,79.49,53.3v4.54c0,24.23-13.48,54.81-79.34,54.81h-74.8Zm35.28,85.55h36.64c40,0,45.28-17.56,45.28-29.07v-.91c0-11.51-4.7-28.92-45.28-28.92H299.69Z"
+     id="path1097"
+     style="fill:#ffffff" />
+  <path
+     class="cls-1"
+     d="M549.38,48.61V74.2H465.5V90.86h81.91V116.6H465.5v18.47h85.39v26.19H430.67V48.61Z"
+     id="path1099"
+     style="fill:#ffffff" />
+  <path
+     class="cls-1"
+     d="M684.29,48.61V74.2H600.41V90.86h81.91V116.6H600.41v18.47h85.4v26.19H565.59V48.61Z"
+     id="path1101"
+     style="fill:#ffffff" />
+  <path
+     class="cls-1"
+     d="M735.78,123.71v37.55H700.5V48.61H785c40.57,0,52.54,16,52.54,36.65v1.51c0,20.14-12.27,36.94-52.54,36.94Zm0-25.28h48.6c11,0,16.35-4.09,16.35-11.81v-.46c0-7.72-5-12-16.35-12h-48.6Z"
+     id="path1103"
+     style="fill:#ffffff" />
+  <path
+     class="cls-1"
+     d="M895.83,48.61H946l38.91,70.11,39.07-70.11h48.29V161.26H1037.4v-78l-44.36,78H974.11l-44.36-78v78H895.83Z"
+     id="path1105"
+     style="fill:#ffffff" />
+  <path
+     class="cls-1"
+     d="M1170.8,46.64c70.87,0,79.19,35.59,79.19,55.72v4.55c0,19.83-8.17,56.32-79.19,56.32h-6.51c-71.31,0-79.34-36.49-79.34-56.32v-4.55c0-20.13,8-55.72,79.34-55.72Zm42.25,56.78c0-12.87-7.42-29.52-45.58-29.52-38.76,0-45.57,16.65-45.57,29.52v1.82c0,12.87,7.42,30.59,45.57,30.59,37.86,0,45.58-17.26,45.58-30.29Z"
+     id="path1107"
+     style="fill:#ffffff" />
+  <path
+     class="cls-1"
+     d="M1302.54,161.26,1244,48.61h40l41.49,82.83,38.91-82.83H1401l-54.51,112.65Z"
+     id="path1109"
+     style="fill:#ffffff" />
+  <path
+     class="cls-1"
+     d="M1526.49,48.61V74.2h-83.88V90.86h81.91V116.6h-81.91v18.47H1528v26.19H1407.78V48.61Z"
+     id="path1111"
+     style="fill:#ffffff" />
+  <g
+     id="g1255"
+     style="fill-opacity:1;fill:url(#linearGradient1807)">
+    <path
+       class="cls-1"
+       d="M40.11,78.91,71,70.54q8.54,17,17.08,34.05L73,139.33,40,133l12.15-27.18Q46.14,92.38,40.11,78.91Z"
+       id="path1113"
+       style="fill:url(#linearGradient1807);fill-opacity:1" />
+    <path
+       class="cls-1"
+       d="M91.34,68l31.78-7.88q10.78,22.49,21.58,45l-20.25,44.14L92,143.42l17.22-38Z"
+       id="path1115"
+       style="fill:url(#linearGradient1807);fill-opacity:1" />
+    <path
+       class="cls-1"
+       d="M144.7,57l31.17-9.34,27.41,56.76-26.07,56.15-33.72-6.3q12.13-24.63,24.26-49.24Q156.22,81,144.7,57Z"
+       id="path1117"
+       style="fill:url(#linearGradient1807);fill-opacity:1" />
+  </g>
+  <metadata
+     id="metadata1202">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Монтажная область 12DM_icons</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
